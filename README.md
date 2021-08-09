@@ -1,5 +1,7 @@
 # public-health-analysis
 Linear Regression in R for Public Health
+course - 
+https://www.coursera.org/learn/linear-regression-r-public-health/home/welcome
 
 
 Problem statement - 
